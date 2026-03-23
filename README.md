@@ -38,7 +38,7 @@ MarkDown 내용정리
 3. 숫자 3
 
 <!-- Link -->
-Click [My Git Hub](https://github.com/내주소)
+Click [My Git Hub](https://github.com/soeunparkk/AI_Project_2026_01.git)
 
 <!-- Image -->
 ![image](https://github.com/shingugitvr000/AI_Project/blob/main/ControlNet/Pixel.png?raw=true)
