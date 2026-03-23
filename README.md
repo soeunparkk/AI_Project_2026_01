@@ -41,7 +41,7 @@ MarkDown 내용정리
 Click [My Git Hub] (https://github.com/soeunparkk/AI_Project_2026_01) 
 
 <!-- Image --> 
-! [image](https://common.image.cf.marpple.co/files/u_4087188/2024/6/original/3696ede7ed905b78ac1780924ad4a60ab4dbfe911.png?q=92&w=1110&f=jpeg&bg=f6f6f6)
+! [image](https://raw.githubusercontent.com/shingugitvr000/AI_Project/refs/heads/main/ControlNet/Pixel.png)
 
 <!-- Table --> 
 |Header|Description|Other|
