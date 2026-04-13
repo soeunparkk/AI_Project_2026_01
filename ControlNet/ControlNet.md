@@ -58,3 +58,48 @@ https://github.com/soeunparkk/AI_Project_2026_01/blob/76f63802007253750abd8984d2
 
 
 ![image] https://github.com/soeunparkk/AI_Project_2026_01/blob/76f63802007253750abd8984d218df3a3666104a/ControlNet/Tile/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202026-04-06%20101603.png
+
+
+## LineArt
+
+![iamge] https://github.com/soeunparkk/AI_Project_2026_01/blob/4e4726ed463fcf172c46470d19a639b74d2cb420/ControlNet/LineArt/00002-77058587.png
+
+![iamge] https://github.com/soeunparkk/AI_Project_2026_01/blob/4e4726ed463fcf172c46470d19a639b74d2cb420/ControlNet/LineArt/00003-345223723.png
+
+![image] https://github.com/soeunparkk/AI_Project_2026_01/blob/4e4726ed463fcf172c46470d19a639b74d2cb420/ControlNet/LineArt/00004-3185327996.png
+
+![image] https://github.com/soeunparkk/AI_Project_2026_01/blob/4e4726ed463fcf172c46470d19a639b74d2cb420/ControlNet/LineArt/tmpp4bihj0h.png
+
+![image] https://github.com/soeunparkk/AI_Project_2026_01/blob/4e4726ed463fcf172c46470d19a639b74d2cb420/ControlNet/LineArt/tmpvif9y2eu.png
+
+![image] https://github.com/soeunparkk/AI_Project_2026_01/blob/4e4726ed463fcf172c46470d19a639b74d2cb420/ControlNet/LineArt/tmpzgxahvhc.png
+
+
+## Normalbae
+
+![image] https://github.com/soeunparkk/AI_Project_2026_01/blob/4e4726ed463fcf172c46470d19a639b74d2cb420/ControlNet/Normal_bae/pngtree-patterned-clay-brick-wall-background-texture-with-tidy-rows-image_13724449.png
+
+![image] https://github.com/soeunparkk/AI_Project_2026_01/blob/4e4726ed463fcf172c46470d19a639b74d2cb420/ControlNet/Normal_bae/tmphc6hobzo.png
+
+![image] https://github.com/soeunparkk/AI_Project_2026_01/blob/4e4726ed463fcf172c46470d19a639b74d2cb420/ControlNet/Normal_bae/%ED%99%94%EB%A9%B4%20%EC%BA%A1%EC%B2%98%202026-04-13%20111109.png
+
+
+
+## Scribble
+
+![image] https://github.com/soeunparkk/AI_Project_2026_01/blob/4e4726ed463fcf172c46470d19a639b74d2cb420/ControlNet/Scribble/00005-3790791850.png
+
+![image] https://github.com/soeunparkk/AI_Project_2026_01/blob/4e4726ed463fcf172c46470d19a639b74d2cb420/ControlNet/Scribble/tmpiqgo527x.png
+
+## Shuffle
+
+![image] https://github.com/soeunparkk/AI_Project_2026_01/blob/4e4726ed463fcf172c46470d19a639b74d2cb420/ControlNet/Shuffle/00006-3692966392.png
+
+![image] https://github.com/soeunparkk/AI_Project_2026_01/blob/4e4726ed463fcf172c46470d19a639b74d2cb420/ControlNet/Shuffle/tmpfb3rbhlh.png
+
+## Soft
+
+![image] https://github.com/soeunparkk/AI_Project_2026_01/blob/4e4726ed463fcf172c46470d19a639b74d2cb420/ControlNet/Soft/00001-1662071410.png
+
+![image] https://github.com/soeunparkk/AI_Project_2026_01/blob/4e4726ed463fcf172c46470d19a639b74d2cb420/ControlNet/Soft/tmpi4scslau.png
+
